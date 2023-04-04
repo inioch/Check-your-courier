@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kod poczotowy</title>
+    <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+    <button onclick="window.location.href='../index.html';">Powrót</button>
+    <h2>Wpisz kod pocztowy:</h2>
+    </select>
+    <input 
+    value=""
+        id="inputkod" 
+        maxlength="5" 
+        type="number" 
+        name="inputkod" 
+        oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);">
+    <button id="btn">Sprawdź</button>
+    <div >
+        <div id="cel"></div>
+    </div>
+    <script src="./script.js"></script>
+</body>
+</html>

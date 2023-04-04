@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,100&display=swap');
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+/* Firefox */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+    background-color: #ffc107;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 50px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    height: 100vh;
+}
+
+h2{
+    font-size: 3rem;
+}
+input{
+    border-radius: 15px;
+    border: none;
+    appearance: inherit;
+    height: 50px;
+    font-size: 2rem;
+    width: 150px;
+    text-align: center;
+    font-weight: bold;
+
+}
+.kierunkowy{
+    width: 350px;
+}
+button{
+    cursor: pointer;
+    height: 50px;
+    width: 150px;
+    border: none;
+    border-radius: 10px;
+    background-color: buttonface;
+}
+button:hover{
+    background-color: #c00;
+    border: solid 1px white;
+    color: white;
+}
+h3{
+    font-size: 2.75rem;
+}
+h4{
+    font-size: 2.25rem;
+}
+#trasa, #miejscowosc{
+    color: red;
+}
+#cel{
+    padding: 20px;
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+p{
+    padding: 5px;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+.buttons{
+    display: flex;
+    gap: 20px;
+}

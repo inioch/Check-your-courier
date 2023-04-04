@@ -1,0 +1,59 @@
+const inputkod = document.getElementById("inputkod")
+const btn = document.getElementById("btn")
+const trasa = document.getElementById("trasa")
+const miejscowosc = document.getElementById("miejscowosc")
+const cel = document.getElementById("cel")
+
+const deleteData = () =>{
+  while (cel.hasChildNodes()) {
+    cel.removeChild(cel.firstChild);
+  }
+}
+
+const filterData = (postcode) =>{
+fetch('../restrykcje.json')
+  .then(response => response.json())
+  .then(data => {
+    const filteredData = data.filter(item => item.Postcode == postcode);
+      console.log(filteredData[0].Postcode)     
+      for (let i = 0; i < 50; i++) {
+        const element = document.createElement("p")
+        element.innerText =  filteredData[i].City + "    " + filteredData[i].Trasa
+        cel.appendChild(element)
+        if(filteredData[i].Trasa == "KRX1"){
+          element.style.backgroundColor ="red"
+        }
+        else{
+          element.style.backgroundColor ="green"
+        }
+      
+      }       
+  })
+ 
+  .catch(error => console.error(error));
+}
+// po click wyszukuje
+btn.addEventListener("click", ()=>{
+  filterData(inputkod.value);
+  deleteData()
+  document.execCommand("selectall", null, false);
+
+})
+// po enter wyszukuje
+inputkod.addEventListener('keypress',(e) =>{
+  if(e.key === "Enter"){
+    filterData(inputkod.value);
+    deleteData()
+    document.execCommand("selectall", null, false);
+  }
+})
+
+// ciągłe zanzaczenie
+inputkod.onblur = function (event) { 
+  var blurEl = this; 
+  setTimeout(function() {
+      blurEl.focus()
+  }, 10);
+};
+
+
