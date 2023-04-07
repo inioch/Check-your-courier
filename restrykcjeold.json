@@ -725,11 +725,6 @@
         "Trasa": "KRX1"
     },
     {
-        "Postcode": "28521",
-        "City": "KRZCZONOW",
-        "Trasa": "KRX1"
-    },
-    {
         "Postcode": "28530",
         "City": "BARANOW",
         "Trasa": "KRX1"
@@ -1057,12 +1052,12 @@
     {
         "Postcode": "30054",
         "City": "KRAKOW",
-        "Trasa": "KR3X"
+        "Trasa": "KR2A"
     },
     {
         "Postcode": "30055",
         "City": "KRAKOW",
-        "Trasa": "KR3X"
+        "Trasa": "KR2A"
     },
     {
         "Postcode": "30056",
@@ -1082,7 +1077,7 @@
     {
         "Postcode": "30059",
         "City": "KRAKOW",
-        "Trasa": "KR3X"
+        "Trasa": "KR2A"
     },
     {
         "Postcode": "30060",
@@ -1107,12 +1102,12 @@
     {
         "Postcode": "30065",
         "City": "KRAKOW",
-        "Trasa": "KR3X"
+        "Trasa": "KR2A"
     },
     {
         "Postcode": "30066",
         "City": "KRAKOW",
-        "Trasa": "KR3X"
+        "Trasa": "KR2A"
     },
     {
         "Postcode": "30067",
@@ -1142,7 +1137,7 @@
     {
         "Postcode": "30073",
         "City": "KRAKOW",
-        "Trasa": "KR3X"
+        "Trasa": "KR2A"
     },
     {
         "Postcode": "30074",
@@ -1322,7 +1317,7 @@
     {
         "Postcode": "30120",
         "City": "KRAKOW",
-        "Trasa": "KR3X"
+        "Trasa": "KR2A"
     },
     {
         "Postcode": "30121",
@@ -1417,7 +1412,7 @@
     {
         "Postcode": "30143",
         "City": "KRAKOW",
-        "Trasa": "KR3X"
+        "Trasa": "KR2A"
     },
     {
         "Postcode": "30144",
@@ -1732,47 +1727,47 @@
     {
         "Postcode": "30300",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30301",
         "City": "KRAKOW",
-        "Trasa": "KR2A"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30302",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30303",
         "City": "KRAKOW",
-        "Trasa": "KR2A"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30304",
         "City": "KRAKOW",
-        "Trasa": "KR2A"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30305",
         "City": "KRAKOW",
-        "Trasa": "KR2A"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30306",
         "City": "KRAKOW",
-        "Trasa": "KR2A"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30307",
         "City": "KRAKOW",
-        "Trasa": "KR2A"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30308",
         "City": "KRAKOW",
-        "Trasa": "KR2A"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30309",
@@ -1780,99 +1775,94 @@
         "Trasa": "KR2C"
     },
     {
-        "Postcode": "30310",
+        "Postcode": "30311",
         "City": "KRAKOW",
         "Trasa": "KR2C"
     },
     {
-        "Postcode": "30311",
-        "City": "KRAKOW",
-        "Trasa": "KR2D"
-    },
-    {
         "Postcode": "30312",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30313",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30314",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30315",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30316",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30317",
         "City": "KRAKOW",
-        "Trasa": "KR2A"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30318",
         "City": "KRAKOW",
-        "Trasa": "KR2A"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30319",
         "City": "KRAKOW",
-        "Trasa": "KR2A"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30320",
         "City": "KRAKOW",
-        "Trasa": "KR2A"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30321",
         "City": "KRAKOW",
-        "Trasa": "KR2A"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30322",
         "City": "KRAKOW",
-        "Trasa": "KR2A"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30323",
         "City": "KRAKOW",
-        "Trasa": "KR2A"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30324",
         "City": "KRAKOW",
-        "Trasa": "KR2A"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30326",
         "City": "KRAKOW",
-        "Trasa": "KR2A"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30327",
         "City": "KRAKOW",
-        "Trasa": "KR2A"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30328",
         "City": "KRAKOW",
-        "Trasa": "KR2A"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30329",
         "City": "KRAKOW",
-        "Trasa": "KR2A"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30331",
@@ -1887,32 +1877,32 @@
     {
         "Postcode": "30333",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30334",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30335",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30336",
         "City": "KRAKOW",
-        "Trasa": "KR2A"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30337",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30346",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30347",
@@ -1942,12 +1932,12 @@
     {
         "Postcode": "30361",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30362",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30363",
@@ -1957,42 +1947,42 @@
     {
         "Postcode": "30364",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30373",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30374",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30376",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30377",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30379",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30380",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30381",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30382",
@@ -2007,7 +1997,7 @@
     {
         "Postcode": "30384",
         "City": "KRAKOW",
-        "Trasa": "KR1X"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30385",
@@ -2077,17 +2067,12 @@
     {
         "Postcode": "30398",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR1X"
     },
     {
         "Postcode": "30399",
         "City": "KRAKOW",
         "Trasa": "KR1X"
-    },
-    {
-        "Postcode": "30403",
-        "City": "KRAKOW",
-        "Trasa": "KR2C"
     },
     {
         "Postcode": "30404",
@@ -2137,32 +2122,32 @@
     {
         "Postcode": "30413",
         "City": "KRAKOW",
-        "Trasa": "KR1X"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30414",
         "City": "KRAKOW",
-        "Trasa": "KR1X"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30415",
         "City": "KRAKOW",
-        "Trasa": "KR2C"
+        "Trasa": "KR5C"
     },
     {
         "Postcode": "30416",
         "City": "KRAKOW",
-        "Trasa": "KR2C"
+        "Trasa": "KR5C"
     },
     {
         "Postcode": "30417",
         "City": "KRAKOW",
-        "Trasa": "KR2C"
+        "Trasa": "KR5C"
     },
     {
         "Postcode": "30418",
         "City": "KRAKOW",
-        "Trasa": "KR1X"
+        "Trasa": "KR5C"
     },
     {
         "Postcode": "30419",
@@ -2172,17 +2157,17 @@
     {
         "Postcode": "30420",
         "City": "KRAKOW",
-        "Trasa": "KR1X"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30421",
         "City": "KRAKOW",
-        "Trasa": "KR1X"
+        "Trasa": "KR5C"
     },
     {
         "Postcode": "30422",
         "City": "KRAKOW",
-        "Trasa": "KR1X"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30423",
@@ -2192,17 +2177,17 @@
     {
         "Postcode": "30424",
         "City": "KRAKOW",
-        "Trasa": "KR1X"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30425",
         "City": "KRAKOW",
-        "Trasa": "KR1X"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30426",
         "City": "KRAKOW",
-        "Trasa": "KR1X"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30427",
@@ -2212,17 +2197,17 @@
     {
         "Postcode": "30428",
         "City": "KRAKOW",
-        "Trasa": "KR1X"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30429",
         "City": "KRAKOW",
-        "Trasa": "KR1X"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30430",
         "City": "KRAKOW",
-        "Trasa": "KR1X"
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30431",
@@ -2287,12 +2272,17 @@
     {
         "Postcode": "30443",
         "City": "KRAKOW",
-        "Trasa": "KR1X"
+        "Trasa": "KR5C"
+    },
+    {
+        "Postcode": "30444",
+        "City": "KRAKOW",
+        "Trasa": "KR2C"
     },
     {
         "Postcode": "30444",
         "City": "LIBERTOW",
-        "Trasa": "KR1A"
+        "Trasa": "KR1X"
     },
     {
         "Postcode": "30445",
@@ -2312,7 +2302,7 @@
     {
         "Postcode": "30450",
         "City": "KRAKOW",
-        "Trasa": "KR1X"
+        "Trasa": "KR5C"
     },
     {
         "Postcode": "30498",
@@ -2452,7 +2442,7 @@
     {
         "Postcode": "30528",
         "City": "KRAKOW",
-        "Trasa": "KR5C"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "30529",
@@ -2517,27 +2507,27 @@
     {
         "Postcode": "30542",
         "City": "KRAKOW",
-        "Trasa": "KR5C"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "30543",
         "City": "KRAKOW",
-        "Trasa": "KR5C"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "30544",
         "City": "KRAKOW",
-        "Trasa": "KR5C"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "30545",
         "City": "KRAKOW",
-        "Trasa": "KR5C"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "30546",
         "City": "KRAKOW",
-        "Trasa": "KR5C"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "30547",
@@ -2547,17 +2537,17 @@
     {
         "Postcode": "30548",
         "City": "KRAKOW",
-        "Trasa": "KR5C"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "30549",
         "City": "KRAKOW",
-        "Trasa": "KR5C"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "30550",
         "City": "KRAKOW",
-        "Trasa": "KR5C"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "30551",
@@ -2567,52 +2557,52 @@
     {
         "Postcode": "30552",
         "City": "KRAKOW",
-        "Trasa": "KR5C"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "30553",
         "City": "KRAKOW",
-        "Trasa": "KR5C"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "30554",
         "City": "KRAKOW",
-        "Trasa": "KR5C"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "30555",
         "City": "KRAKOW",
-        "Trasa": "KR5C"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "30556",
         "City": "KRAKOW",
-        "Trasa": "KR5C"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "30560",
         "City": "KRAKOW",
-        "Trasa": "KR5C"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "30563",
         "City": "KRAKOW",
-        "Trasa": "KR5C"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "30564",
         "City": "KRAKOW",
-        "Trasa": "KR5C"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "30565",
         "City": "KRAKOW",
-        "Trasa": "KR5C"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "30566",
         "City": "KRAKOW",
-        "Trasa": "KR5C"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "30568",
@@ -2627,62 +2617,62 @@
     {
         "Postcode": "30571",
         "City": "KRAKOW",
-        "Trasa": "KR5C"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "30572",
         "City": "KRAKOW",
-        "Trasa": "KR5C"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "30601",
         "City": "KRAKOW",
-        "Trasa": "KR2C"
+        "Trasa": "KR5C"
     },
     {
         "Postcode": "30602",
         "City": "KRAKOW",
-        "Trasa": "KR2C"
+        "Trasa": "KR5C"
     },
     {
         "Postcode": "30603",
         "City": "KRAKOW",
-        "Trasa": "KR2C"
+        "Trasa": "KR5C"
     },
     {
         "Postcode": "30604",
         "City": "KRAKOW",
-        "Trasa": "KR2C"
+        "Trasa": "KR5C"
     },
     {
         "Postcode": "30605",
         "City": "KRAKOW",
-        "Trasa": "KR2C"
+        "Trasa": "KR5C"
     },
     {
         "Postcode": "30606",
         "City": "KRAKOW",
-        "Trasa": "KR2C"
+        "Trasa": "KR5C"
     },
     {
         "Postcode": "30607",
         "City": "KRAKOW",
-        "Trasa": "KR2C"
+        "Trasa": "KR5C"
     },
     {
         "Postcode": "30608",
         "City": "KRAKOW",
-        "Trasa": "KR2C"
+        "Trasa": "KR5C"
     },
     {
         "Postcode": "30609",
         "City": "KRAKOW",
-        "Trasa": "KR2C"
+        "Trasa": "KR5C"
     },
     {
         "Postcode": "30610",
         "City": "KRAKOW",
-        "Trasa": "KR2C"
+        "Trasa": "KR5C"
     },
     {
         "Postcode": "30611",
@@ -2692,12 +2682,12 @@
     {
         "Postcode": "30612",
         "City": "KRAKOW",
-        "Trasa": "KR5B"
+        "Trasa": "KR5C"
     },
     {
         "Postcode": "30613",
         "City": "KRAKOW",
-        "Trasa": "KR5B"
+        "Trasa": "KR5C"
     },
     {
         "Postcode": "30614",
@@ -2707,17 +2697,17 @@
     {
         "Postcode": "30615",
         "City": "KRAKOW",
-        "Trasa": "KR6X"
+        "Trasa": "KR1X"
     },
     {
         "Postcode": "30616",
         "City": "KRAKOW",
-        "Trasa": "KR6X"
+        "Trasa": "KR1X"
     },
     {
         "Postcode": "30617",
         "City": "KRAKOW",
-        "Trasa": "KR6X"
+        "Trasa": "KR1X"
     },
     {
         "Postcode": "30618",
@@ -2827,7 +2817,7 @@
     {
         "Postcode": "30644",
         "City": "KRAKOW",
-        "Trasa": "KR5C"
+        "Trasa": "KR5B"
     },
     {
         "Postcode": "30645",
@@ -3022,7 +3012,7 @@
     {
         "Postcode": "30694",
         "City": "KRAKOW",
-        "Trasa": "KR6X"
+        "Trasa": "KR1X"
     },
     {
         "Postcode": "30695",
@@ -3032,42 +3022,42 @@
     {
         "Postcode": "30697",
         "City": "KRAKOW",
-        "Trasa": "KR6X"
+        "Trasa": "KR1X"
     },
     {
         "Postcode": "30698",
         "City": "GOLKOWICE",
-        "Trasa": "KR6X"
+        "Trasa": "KR1X"
     },
     {
         "Postcode": "30698",
         "City": "KRAKOW",
-        "Trasa": "KR6X"
+        "Trasa": "KR1X"
     },
     {
         "Postcode": "30698",
         "City": "LUSINA",
-        "Trasa": "KR1A"
+        "Trasa": "KR1X"
     },
     {
         "Postcode": "30699",
         "City": "KRAKOW",
-        "Trasa": "KR6X"
+        "Trasa": "KR1X"
     },
     {
         "Postcode": "30701",
         "City": "KRAKOW",
-        "Trasa": "KR5C"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "30702",
         "City": "KRAKOW",
-        "Trasa": "KR5C"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "30703",
         "City": "KRAKOW",
-        "Trasa": "KR5C"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "30704",
@@ -3092,7 +3082,7 @@
     {
         "Postcode": "30710",
         "City": "KRAKOW",
-        "Trasa": "KR5C"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "30711",
@@ -3117,12 +3107,12 @@
     {
         "Postcode": "30715",
         "City": "KRAKOW",
-        "Trasa": "KR5X"
+        "Trasa": "KR5A"
     },
     {
         "Postcode": "30716",
         "City": "KRAKOW",
-        "Trasa": "KR5X"
+        "Trasa": "KR5A"
     },
     {
         "Postcode": "30717",
@@ -3137,7 +3127,7 @@
     {
         "Postcode": "30719",
         "City": "KRAKOW",
-        "Trasa": "KR5C"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "30720",
@@ -3147,27 +3137,27 @@
     {
         "Postcode": "30721",
         "City": "KRAKOW",
-        "Trasa": "KR5X"
+        "Trasa": "KR5A"
     },
     {
         "Postcode": "30722",
         "City": "KRAKOW",
-        "Trasa": "KR5X"
+        "Trasa": "KR5A"
     },
     {
         "Postcode": "30723",
         "City": "KRAKOW",
-        "Trasa": "KR5X"
+        "Trasa": "KR5A"
     },
     {
         "Postcode": "30724",
         "City": "KRAKOW",
-        "Trasa": "KR5X"
+        "Trasa": "KR5A"
     },
     {
         "Postcode": "30725",
         "City": "KRAKOW",
-        "Trasa": "KR5X"
+        "Trasa": "KR5A"
     },
     {
         "Postcode": "30726",
@@ -3192,42 +3182,42 @@
     {
         "Postcode": "30730",
         "City": "KRAKOW",
-        "Trasa": "KR5X"
+        "Trasa": "KR5A"
     },
     {
         "Postcode": "30731",
         "City": "KRAKOW",
-        "Trasa": "KR5X"
+        "Trasa": "KR5A"
     },
     {
         "Postcode": "30732",
         "City": "KRAKOW",
-        "Trasa": "KR5X"
+        "Trasa": "KR5A"
     },
     {
         "Postcode": "30733",
         "City": "KRAKOW",
-        "Trasa": "KR5X"
+        "Trasa": "KR5A"
     },
     {
         "Postcode": "30734",
         "City": "KRAKOW",
-        "Trasa": "KR5X"
+        "Trasa": "KR5A"
     },
     {
         "Postcode": "30735",
         "City": "KRAKOW",
-        "Trasa": "KR5X"
+        "Trasa": "KR5A"
     },
     {
         "Postcode": "30736",
         "City": "KRAKOW",
-        "Trasa": "KR5X"
+        "Trasa": "KR5A"
     },
     {
         "Postcode": "30737",
         "City": "KRAKOW",
-        "Trasa": "KR5X"
+        "Trasa": "KR5A"
     },
     {
         "Postcode": "30739",
@@ -3266,6 +3256,11 @@
     },
     {
         "Postcode": "30799",
+        "City": "KRAKOW",
+        "Trasa": "KR5A"
+    },
+    {
+        "Postcode": "30800",
         "City": "KRAKOW",
         "Trasa": "KR5A"
     },
@@ -3361,11 +3356,6 @@
     },
     {
         "Postcode": "30820",
-        "City": "KRAKOW",
-        "Trasa": "KR5B"
-    },
-    {
-        "Postcode": "30821",
         "City": "KRAKOW",
         "Trasa": "KR5B"
     },
@@ -3526,7 +3516,7 @@
     },
     {
         "Postcode": "30900",
-        "City": "NIEPOLOMICE",
+        "City": "KRAKOW",
         "Trasa": "KR6X"
     },
     {
@@ -3537,12 +3527,12 @@
     {
         "Postcode": "30940",
         "City": "KRAKOW",
-        "Trasa": "KR4D"
+        "Trasa": "KR4X"
     },
     {
-        "Postcode": "30945",
+        "Postcode": "30942",
         "City": "KRAKOW",
-        "Trasa": "KR5X"
+        "Trasa": "KR2B"
     },
     {
         "Postcode": "31000",
@@ -3672,12 +3662,12 @@
     {
         "Postcode": "31025",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31026",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31027",
@@ -3692,57 +3682,57 @@
     {
         "Postcode": "31029",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31030",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31031",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31032",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31033",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31034",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31035",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31036",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31037",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31038",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31039",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31041",
@@ -3767,157 +3757,157 @@
     {
         "Postcode": "31045",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31046",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31047",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31048",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31049",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31050",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31051",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31052",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31053",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31054",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31055",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31056",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31057",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31058",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31059",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31060",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31061",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31062",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31063",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31064",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31065",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31066",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31067",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31068",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31069",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31070",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31071",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31072",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31073",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31075",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
-        "Postcode": "31095",
+        "Postcode": "31080",
         "City": "KRAKOW",
-        "Trasa": "KR4A"
+        "Trasa": "KR2B"
     },
     {
         "Postcode": "31101",
@@ -4657,7 +4647,7 @@
     {
         "Postcode": "31338",
         "City": "KRAKOW",
-        "Trasa": "KR4X"
+        "Trasa": "KR4E"
     },
     {
         "Postcode": "31339",
@@ -4777,7 +4767,7 @@
     {
         "Postcode": "31404",
         "City": "KRAKOW",
-        "Trasa": "KR4D"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31406",
@@ -4907,7 +4897,7 @@
     {
         "Postcode": "31444",
         "City": "KRAKOW",
-        "Trasa": "KR4D"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31445",
@@ -5042,122 +5032,122 @@
     {
         "Postcode": "31501",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31502",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31503",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31504",
         "City": "KRAKOW",
-        "Trasa": "KR2X"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31505",
         "City": "KRAKOW",
-        "Trasa": "KR2X"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31506",
         "City": "KRAKOW",
-        "Trasa": "KR2X"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31508",
         "City": "KRAKOW",
-        "Trasa": "KR2X"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31509",
         "City": "KRAKOW",
-        "Trasa": "KR2X"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31510",
         "City": "KRAKOW",
-        "Trasa": "KR4D"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31511",
         "City": "KRAKOW",
-        "Trasa": "KR2X"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31512",
         "City": "KRAKOW",
-        "Trasa": "KR2X"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31513",
         "City": "KRAKOW",
-        "Trasa": "KR4D"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31514",
         "City": "KRAKOW",
-        "Trasa": "KR4D"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31515",
         "City": "KRAKOW",
-        "Trasa": "KR4D"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31516",
         "City": "KRAKOW",
-        "Trasa": "KR4D"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31517",
         "City": "KRAKOW",
-        "Trasa": "KR4D"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31518",
         "City": "KRAKOW",
-        "Trasa": "KR4D"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31519",
         "City": "KRAKOW",
-        "Trasa": "KR4D"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31520",
         "City": "KRAKOW",
-        "Trasa": "KR4D"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31521",
         "City": "KRAKOW",
-        "Trasa": "KR4D"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31523",
         "City": "KRAKOW",
-        "Trasa": "KR4D"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31524",
         "City": "KRAKOW",
-        "Trasa": "KR4D"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31525",
         "City": "KRAKOW",
-        "Trasa": "KR4D"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31526",
         "City": "KRAKOW",
-        "Trasa": "KR4D"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31527",
@@ -5167,22 +5157,22 @@
     {
         "Postcode": "31529",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31530",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31531",
         "City": "KRAKOW",
-        "Trasa": "KR2D"
+        "Trasa": "KR2X"
     },
     {
         "Postcode": "31532",
         "City": "KRAKOW",
-        "Trasa": "KR2X"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "31534",
@@ -5192,112 +5182,112 @@
     {
         "Postcode": "31535",
         "City": "KRAKOW",
-        "Trasa": "KR2X"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "31536",
         "City": "KRAKOW",
-        "Trasa": "KR2X"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "31537",
         "City": "KRAKOW",
-        "Trasa": "KR2X"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "31538",
         "City": "KRAKOW",
-        "Trasa": "KR2X"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "31539",
         "City": "KRAKOW",
-        "Trasa": "KR2X"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "31540",
         "City": "KRAKOW",
-        "Trasa": "KR2X"
+        "Trasa": "KR5X"
     },
     {
         "Postcode": "31541",
         "City": "KRAKOW",
-        "Trasa": "KR2X"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31542",
         "City": "KRAKOW",
-        "Trasa": "KR2X"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31543",
         "City": "KRAKOW",
-        "Trasa": "KR2X"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31545",
         "City": "KRAKOW",
-        "Trasa": "KR2X"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31546",
         "City": "KRAKOW",
-        "Trasa": "KR4D"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31547",
         "City": "KRAKOW",
-        "Trasa": "KR2X"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31548",
         "City": "KRAKOW",
-        "Trasa": "KR2X"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31552",
         "City": "KRAKOW",
-        "Trasa": "KR2X"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31553",
         "City": "KRAKOW",
-        "Trasa": "KR2X"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31557",
         "City": "KRAKOW",
-        "Trasa": "KR2X"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31559",
         "City": "KRAKOW",
-        "Trasa": "KR2X"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31560",
         "City": "KRAKOW",
-        "Trasa": "KR2X"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31563",
         "City": "KRAKOW",
-        "Trasa": "KR2X"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31564",
         "City": "KRAKOW",
-        "Trasa": "KR2X"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31566",
         "City": "KRAKOW",
-        "Trasa": "KR2X"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31567",
         "City": "KRAKOW",
-        "Trasa": "KR2X"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31571",
@@ -5307,7 +5297,7 @@
     {
         "Postcode": "31572",
         "City": "KRAKOW",
-        "Trasa": "KR2X"
+        "Trasa": "KR4D"
     },
     {
         "Postcode": "31573",
@@ -5682,12 +5672,12 @@
     {
         "Postcode": "31800",
         "City": "KRAKOW",
-        "Trasa": "KR4B"
+        "Trasa": "KR4D"
     },
     {
         "Postcode": "31801",
         "City": "KRAKOW",
-        "Trasa": "KR4B"
+        "Trasa": "KR4D"
     },
     {
         "Postcode": "31802",
@@ -5852,7 +5842,7 @@
     {
         "Postcode": "31850",
         "City": "KRAKOW",
-        "Trasa": "KR2X"
+        "Trasa": "KR4X"
     },
     {
         "Postcode": "31851",
@@ -5882,12 +5872,12 @@
     {
         "Postcode": "31858",
         "City": "KRAKOW",
-        "Trasa": "KR4B"
+        "Trasa": "KR4D"
     },
     {
         "Postcode": "31859",
         "City": "KRAKOW",
-        "Trasa": "KR4B"
+        "Trasa": "KR4D"
     },
     {
         "Postcode": "31860",
@@ -5922,52 +5912,52 @@
     {
         "Postcode": "31866",
         "City": "KRAKOW",
-        "Trasa": "KR4B"
+        "Trasa": "KR4D"
     },
     {
         "Postcode": "31867",
         "City": "KRAKOW",
-        "Trasa": "KR4B"
+        "Trasa": "KR4D"
     },
     {
         "Postcode": "31868",
         "City": "KRAKOW",
-        "Trasa": "KR4B"
+        "Trasa": "KR4D"
     },
     {
         "Postcode": "31869",
         "City": "KRAKOW",
-        "Trasa": "KR4B"
+        "Trasa": "KR4D"
     },
     {
         "Postcode": "31870",
         "City": "KRAKOW",
-        "Trasa": "KR4B"
+        "Trasa": "KR4D"
     },
     {
         "Postcode": "31871",
         "City": "KRAKOW",
-        "Trasa": "KR4B"
+        "Trasa": "KR4D"
     },
     {
         "Postcode": "31872",
         "City": "KRAKOW",
-        "Trasa": "KR4B"
+        "Trasa": "KR4D"
     },
     {
         "Postcode": "31873",
         "City": "KRAKOW",
-        "Trasa": "KR4B"
+        "Trasa": "KR4D"
     },
     {
         "Postcode": "31874",
         "City": "KRAKOW",
-        "Trasa": "KR4B"
+        "Trasa": "KR4D"
     },
     {
         "Postcode": "31875",
         "City": "KRAKOW",
-        "Trasa": "KR4B"
+        "Trasa": "KR4D"
     },
     {
         "Postcode": "31876",
@@ -5977,12 +5967,12 @@
     {
         "Postcode": "31877",
         "City": "KRAKOW",
-        "Trasa": "KR4B"
+        "Trasa": "KR4D"
     },
     {
         "Postcode": "31878",
         "City": "KRAKOW",
-        "Trasa": "KR4B"
+        "Trasa": "KR4D"
     },
     {
         "Postcode": "31881",
@@ -6335,6 +6325,11 @@
         "Trasa": "KR4A"
     },
     {
+        "Postcode": "31973",
+        "City": "KRAKOW",
+        "Trasa": "KR4A"
+    },
+    {
         "Postcode": "31974",
         "City": "KRAKOW",
         "Trasa": "KR4A"
@@ -6377,7 +6372,7 @@
     {
         "Postcode": "31982",
         "City": "KRAKOW",
-        "Trasa": "KR4A"
+        "Trasa": "KR4D"
     },
     {
         "Postcode": "31983",
@@ -6437,7 +6432,7 @@
     {
         "Postcode": "32002",
         "City": "GRABIE",
-        "Trasa": "KR5A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32002",
@@ -6447,12 +6442,12 @@
     {
         "Postcode": "32002",
         "City": "MALA WIES",
-        "Trasa": "KR6X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32002",
         "City": "STRUMIANY",
-        "Trasa": "KR5A"
+        "Trasa": "KR6X"
     },
     {
         "Postcode": "32002",
@@ -6497,7 +6492,7 @@
     {
         "Postcode": "32005",
         "City": "SUCHORABA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32005",
@@ -6507,177 +6502,177 @@
     {
         "Postcode": "32006",
         "City": "ZABIERZOW BOCHENSKI",
-        "Trasa": "KR5A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32007",
         "City": "CHOBOT",
-        "Trasa": "KR5A"
+        "Trasa": "KRX1"
+    },
+    {
+        "Postcode": "32007",
+        "City": "POSZYNA",
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32007",
         "City": "WOLA BATORSKA",
-        "Trasa": "KR5A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32007",
         "City": "WOLA ZABIERZOWSKA",
-        "Trasa": "KR5A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32007",
         "City": "ZABIERZOW BOCHENSKI",
-        "Trasa": "KR5A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32010",
         "City": "BARANOWKA",
-        "Trasa": "KR4A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32010",
         "City": "CZULICE",
-        "Trasa": "KR4A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32010",
         "City": "DOJAZDOW",
-        "Trasa": "KR4A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32010",
         "City": "GLEBOKA",
-        "Trasa": "KR4A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32010",
         "City": "GOSZCZA",
-        "Trasa": "KR4A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32010",
         "City": "GOSZYCE",
-        "Trasa": "KR4A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32010",
         "City": "KARNIOW",
-        "Trasa": "KR4A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32010",
         "City": "KOCMYRZOW",
-        "Trasa": "KR4A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32010",
         "City": "KRZYSZTOFORZYCE",
-        "Trasa": "KR4A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32010",
         "City": "LOSOSKOWICE",
-        "Trasa": "KR4A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32010",
         "City": "LUBORZYCA",
-        "Trasa": "KR4A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32010",
         "City": "LUCZYCE",
-        "Trasa": "KR4A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32010",
         "City": "MACIEJOWICE",
-        "Trasa": "KR4A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32010",
         "City": "MARSZOWICE",
-        "Trasa": "KR4A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32010",
         "City": "PIETRZEJOWICE",
-        "Trasa": "KR4A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32010",
         "City": "PRUSY",
-        "Trasa": "KR4A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32010",
         "City": "RAWALOWICE",
-        "Trasa": "KR4A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32010",
         "City": "SADOWIE",
-        "Trasa": "KR4A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32010",
         "City": "SKRZESZOWICE",
-        "Trasa": "KR4A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32010",
         "City": "SULECHOW",
-        "Trasa": "KR4A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32010",
         "City": "WIKTOROWICE",
-        "Trasa": "KR4A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32010",
         "City": "WILKOW",
-        "Trasa": "KR4A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32010",
         "City": "WOLA LUBORZYCKA",
-        "Trasa": "KR4A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32010",
         "City": "WYSIOLEK LUBORZYCKI",
-        "Trasa": "KR4A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32010",
         "City": "ZASTOW",
-        "Trasa": "KR4A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32014",
         "City": "BRZEZIE",
-        "Trasa": "KR7X"
+        "Trasa": "KR6C"
     },
     {
         "Postcode": "32014",
         "City": "DABROWA",
-        "Trasa": "KR7X"
-    },
-    {
-        "Postcode": "32014",
-        "City": "LYSOKANIE",
-        "Trasa": "KR7X"
+        "Trasa": "KR6C"
     },
     {
         "Postcode": "32014",
         "City": "SZAROW",
-        "Trasa": "KR7X"
+        "Trasa": "KR6C"
     },
     {
         "Postcode": "32015",
         "City": "GRODKOWICE",
-        "Trasa": "KR7X"
+        "Trasa": "KR6C"
     },
     {
         "Postcode": "32015",
@@ -6687,7 +6682,12 @@
     {
         "Postcode": "32015",
         "City": "LEZKOWICE",
-        "Trasa": "KR7X"
+        "Trasa": "KR6C"
+    },
+    {
+        "Postcode": "32015",
+        "City": "LYSOKANIE",
+        "Trasa": "KR6C"
     },
     {
         "Postcode": "32015",
@@ -6697,7 +6697,7 @@
     {
         "Postcode": "32015",
         "City": "TARGOWISKO",
-        "Trasa": "KR7X"
+        "Trasa": "KR6C"
     },
     {
         "Postcode": "32020",
@@ -6712,7 +6712,7 @@
     {
         "Postcode": "32020",
         "City": "BYSZYCE",
-        "Trasa": "KR8B"
+        "Trasa": "KR6X"
     },
     {
         "Postcode": "32020",
@@ -6722,17 +6722,17 @@
     {
         "Postcode": "32020",
         "City": "CZARNOCHOWICE",
-        "Trasa": "KR5A"
-    },
-    {
-        "Postcode": "32020",
-        "City": "DOBRANOWICE",
         "Trasa": "KR6X"
     },
     {
         "Postcode": "32020",
+        "City": "DOBRANOWICE",
+        "Trasa": "KRX1"
+    },
+    {
+        "Postcode": "32020",
         "City": "GORZKOW",
-        "Trasa": "KR8B"
+        "Trasa": "KR6X"
     },
     {
         "Postcode": "32020",
@@ -6742,22 +6742,22 @@
     {
         "Postcode": "32020",
         "City": "GRAJOW",
-        "Trasa": "KR6X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32020",
         "City": "JANKOWKA",
-        "Trasa": "KR6X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32020",
         "City": "JANOWICE",
-        "Trasa": "KR6X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32020",
         "City": "JAWCZYCE",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32020",
@@ -6817,12 +6817,17 @@
     {
         "Postcode": "32020",
         "City": "SLAWKOWICE",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32020",
         "City": "SLEDZIEJOWICE",
-        "Trasa": "KR5A"
+        "Trasa": "KR6X"
+    },
+    {
+        "Postcode": "32020",
+        "City": "STRUMIANY",
+        "Trasa": "KR6X"
     },
     {
         "Postcode": "32020",
@@ -6832,7 +6837,7 @@
     {
         "Postcode": "32020",
         "City": "SULOW",
-        "Trasa": "KR7X"
+        "Trasa": "KR6X"
     },
     {
         "Postcode": "32020",
@@ -6867,7 +6872,7 @@
     {
         "Postcode": "32020",
         "City": "ZABLOCIE",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32021",
@@ -6875,14 +6880,9 @@
         "Trasa": "KR6X"
     },
     {
-        "Postcode": "32022",
-        "City": "WIELICZKA",
-        "Trasa": "KR6X"
-    },
-    {
         "Postcode": "32031",
         "City": "BRZYCZYNA",
-        "Trasa": "KR1A"
+        "Trasa": "KR1X"
     },
     {
         "Postcode": "32031",
@@ -6897,7 +6897,7 @@
     {
         "Postcode": "32031",
         "City": "GAJ",
-        "Trasa": "KR1A"
+        "Trasa": "KR1X"
     },
     {
         "Postcode": "32031",
@@ -6922,7 +6922,7 @@
     {
         "Postcode": "32040",
         "City": "OCHOJNO",
-        "Trasa": "KR1A"
+        "Trasa": "KR1X"
     },
     {
         "Postcode": "32040",
@@ -6942,47 +6942,42 @@
     {
         "Postcode": "32040",
         "City": "WRZASOWICE",
-        "Trasa": "KR1A"
+        "Trasa": "KR1X"
     },
     {
         "Postcode": "32043",
         "City": "CHMIELARZE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32043",
-        "City": "CIANOWICE",
-        "Trasa": "KR4X"
+        "City": "CIANOWICE DUZE",
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32043",
         "City": "GRODZISKO",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32043",
         "City": "NIEBYLA",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32043",
         "City": "SKALA",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32043",
         "City": "SOBIESEKI",
-        "Trasa": "KR4X"
-    },
-    {
-        "Postcode": "32043",
-        "City": "SWINCZOW",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32043",
         "City": "SZCZODRKOWICE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32045",
@@ -7017,47 +7012,47 @@
     {
         "Postcode": "32046",
         "City": "BARBARKA",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32046",
         "City": "GOLYSZYN",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32046",
         "City": "MINOGA",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32046",
         "City": "NOWA WIES",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32046",
         "City": "POREBA LASKOWSKA",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32046",
         "City": "PRZYBYSLAWICE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32046",
         "City": "RZEPLIN",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32046",
         "City": "STOKI",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32046",
         "City": "ZAMLYNIE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32047",
@@ -7066,7 +7061,7 @@
     },
     {
         "Postcode": "32048",
-        "City": "GOTKOWICE",
+        "City": "CZUBROWICE",
         "Trasa": "KRX1"
     },
     {
@@ -7096,6 +7091,11 @@
     },
     {
         "Postcode": "32049",
+        "City": "GOTKOWICE",
+        "Trasa": "KRX1"
+    },
+    {
+        "Postcode": "32049",
         "City": "PRZEGINIA",
         "Trasa": "KRX1"
     },
@@ -7107,7 +7107,7 @@
     {
         "Postcode": "32050",
         "City": "BOREK SZLACHECKI",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32050",
@@ -7127,47 +7127,47 @@
     {
         "Postcode": "32051",
         "City": "FACIMIECH",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32051",
         "City": "JASKOWICE",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32051",
         "City": "KRZECIN",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32051",
         "City": "OCHODZA",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32051",
         "City": "POZOWICE",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32051",
         "City": "WIELKIE DROGI",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32051",
         "City": "ZELCZYNA",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32052",
         "City": "GOLUCHOWICE",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32052",
         "City": "GRABIE",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32052",
@@ -7177,7 +7177,7 @@
     {
         "Postcode": "32052",
         "City": "POLANKA HALLERA",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32052",
@@ -7192,12 +7192,7 @@
     {
         "Postcode": "32053",
         "City": "WOLA RADZISZOWSKA",
-        "Trasa": "KR8C"
-    },
-    {
-        "Postcode": "32054",
-        "City": "SKAWINA",
-        "Trasa": "KR1A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32060",
@@ -7272,11 +7267,6 @@
     {
         "Postcode": "32061",
         "City": "RYBNA",
-        "Trasa": "KRX1"
-    },
-    {
-        "Postcode": "32062",
-        "City": "KASZOW",
         "Trasa": "KRX1"
     },
     {
@@ -7385,11 +7375,6 @@
         "Trasa": "KRX1"
     },
     {
-        "Postcode": "32066",
-        "City": "OSTREZNICA",
-        "Trasa": "KRX1"
-    },
-    {
         "Postcode": "32067",
         "City": "FRYWALD",
         "Trasa": "KRX1"
@@ -7437,11 +7422,6 @@
     {
         "Postcode": "32070",
         "City": "WOLOWICE",
-        "Trasa": "KRX1"
-    },
-    {
-        "Postcode": "32070",
-        "City": "ZAGACIE",
         "Trasa": "KRX1"
     },
     {
@@ -7605,6 +7585,11 @@
         "Trasa": "KR3A"
     },
     {
+        "Postcode": "32081",
+        "City": "ZABIERZOW",
+        "Trasa": "KR3A"
+    },
+    {
         "Postcode": "32082",
         "City": "BOLECHOWICE",
         "Trasa": "KR3A"
@@ -7671,11 +7656,6 @@
     },
     {
         "Postcode": "32084",
-        "City": "MNIKOW (BACZYN)",
-        "Trasa": "KR3A"
-    },
-    {
-        "Postcode": "32084",
         "City": "MORAWICA",
         "Trasa": "KR3A"
     },
@@ -7707,107 +7687,102 @@
     {
         "Postcode": "32086",
         "City": "BATOWICE",
-        "Trasa": "KR4B"
+        "Trasa": "KR4C"
     },
     {
         "Postcode": "32086",
         "City": "BOLEN",
-        "Trasa": "KR4X"
+        "Trasa": "KR4E"
     },
     {
         "Postcode": "32086",
         "City": "BOSUTOW",
-        "Trasa": "KR4X"
+        "Trasa": "KR4E"
     },
     {
         "Postcode": "32086",
         "City": "DZIEKANOWICE",
-        "Trasa": "KR4B"
+        "Trasa": "KR4C"
     },
     {
         "Postcode": "32086",
         "City": "WEGRZCE",
-        "Trasa": "KR4X"
+        "Trasa": "KR4C"
     },
     {
         "Postcode": "32087",
         "City": "BIBICE",
-        "Trasa": "KR4X"
+        "Trasa": "KR4E"
     },
     {
         "Postcode": "32087",
         "City": "GARLICA DUCHOWNA",
-        "Trasa": "KR4X"
+        "Trasa": "KR4E"
     },
     {
         "Postcode": "32087",
         "City": "GARLICA MUROWANA",
-        "Trasa": "KR4X"
+        "Trasa": "KR4E"
     },
     {
         "Postcode": "32087",
         "City": "PEKOWICE",
-        "Trasa": "KR4X"
+        "Trasa": "KR4E"
     },
     {
         "Postcode": "32087",
         "City": "TROJANOWICE",
-        "Trasa": "KR4X"
+        "Trasa": "KR4E"
     },
     {
         "Postcode": "32087",
         "City": "WEGRZCE",
-        "Trasa": "KR4X"
+        "Trasa": "KR4C"
     },
     {
         "Postcode": "32087",
         "City": "WOLA ZACHARIASZOWSKA",
-        "Trasa": "KR4X"
+        "Trasa": "KR4E"
     },
     {
         "Postcode": "32087",
         "City": "ZIELONKI",
-        "Trasa": "KR4X"
+        "Trasa": "KR4E"
     },
     {
         "Postcode": "32088",
         "City": "BRZOZOWKA",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32088",
         "City": "GARLICZKA",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32088",
         "City": "GREBYNICE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32088",
         "City": "JANUSZOWICE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32088",
         "City": "KORZKIEW",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32088",
         "City": "OWCZARY",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32088",
         "City": "PRZYBYSLAWICE",
-        "Trasa": "KR4X"
-    },
-    {
-        "Postcode": "32088",
-        "City": "ZIELONKI",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32089",
@@ -7832,7 +7807,7 @@
     {
         "Postcode": "32089",
         "City": "PRADNIK KORZKIEWSKI",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32089",
@@ -7847,337 +7822,327 @@
     {
         "Postcode": "32090",
         "City": "BRONCZYCE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32090",
         "City": "CZECHY",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32090",
         "City": "JANIKOWICE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32090",
         "City": "JANUSZOWICE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32090",
         "City": "KACICE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32090",
         "City": "KEPA",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32090",
         "City": "LIPNA WOLA",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32090",
         "City": "MILOCICE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32090",
         "City": "MUNIAKOWICE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32090",
         "City": "NIEDZWIEDZ",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32090",
         "City": "ORLOW",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32090",
         "City": "POLANOWICE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32090",
         "City": "PRANDOCIN",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32090",
         "City": "PRANDOCIN-ILY",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32090",
         "City": "PRANDOCIN-WYSIOLEK",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32090",
         "City": "RATAJOW",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32090",
         "City": "SLOMNIKI",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32090",
         "City": "SMROKOW",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32090",
         "City": "SZCZEPANOWICE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32090",
         "City": "TRATNOWICE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32090",
         "City": "WAGANOWICE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32090",
         "City": "WESOLA",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32090",
         "City": "WEZEROW",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32090",
         "City": "ZABORZE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32090",
         "City": "ZAGAJE SMROKOWSKIE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32091",
         "City": "GORNA WIES",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32091",
         "City": "KONCZYCE",
-        "Trasa": "KR4X"
+        "Trasa": "KR4E"
     },
     {
         "Postcode": "32091",
         "City": "KOZIEROW",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32091",
         "City": "KSIAZNICZKI",
-        "Trasa": "KR4X"
+        "Trasa": "KR4E"
     },
     {
         "Postcode": "32091",
         "City": "MASLOMIACA",
-        "Trasa": "KR4X"
+        "Trasa": "KR4E"
     },
     {
         "Postcode": "32091",
         "City": "MICHALOWICE",
-        "Trasa": "KR4X"
+        "Trasa": "KR4E"
     },
     {
         "Postcode": "32091",
         "City": "MLODZIEJOWICE",
-        "Trasa": "KR4X"
+        "Trasa": "KR4E"
     },
     {
         "Postcode": "32091",
         "City": "PIELGRZYMOWICE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32091",
         "City": "RACIBOROWICE",
-        "Trasa": "KR4B"
-    },
-    {
-        "Postcode": "32091",
-        "City": "RACIBOROWICE (PRAWDA)",
-        "Trasa": "KR4B"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32091",
         "City": "SIEBOROWICE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32091",
         "City": "WIECLAWICE DWORSKIE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32091",
         "City": "WIECLAWICE STARE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32091",
         "City": "WILCZKOWICE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32091",
         "City": "WOLA WIECLAWSKA",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32091",
         "City": "ZAGORZYCE DWORSKIE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32091",
         "City": "ZAGORZYCE STARE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32091",
         "City": "ZDZIESLAWICE",
-        "Trasa": "KR4X"
+        "Trasa": "KR4E"
     },
     {
         "Postcode": "32091",
         "City": "ZERWANA",
-        "Trasa": "KR4X"
-    },
-    {
-        "Postcode": "32093",
-        "City": "MODLNICZKA",
-        "Trasa": "KR3A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32095",
         "City": "BISKUPICE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32095",
         "City": "CELINY",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32095",
         "City": "DAMICE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32095",
         "City": "DOMIARKI",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32095",
         "City": "GRZEGORZOWICE MALE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32095",
         "City": "GRZEGORZOWICE WIELKIE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32095",
         "City": "IWANOWICE DWORSKIE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32095",
         "City": "IWANOWICE WLOSCIANSKIE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32095",
         "City": "KRASIENIEC STARY",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32095",
         "City": "KRASIENIEC ZAKUPNY",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32095",
         "City": "LESIENIEC",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32095",
         "City": "MASZKOW",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32095",
         "City": "NARAMA",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32095",
         "City": "POSKWITOW",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32095",
         "City": "PRZESTANSKO",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32095",
         "City": "SIECIECHOWICE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32095",
         "City": "SULKOWICE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32095",
         "City": "WIDOMA",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32095",
         "City": "WLADYSLAW",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32095",
         "City": "ZAGAJE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32095",
         "City": "ZALESIE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32095",
         "City": "ZERKOWICE",
-        "Trasa": "KR4X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32100",
@@ -8445,11 +8410,6 @@
         "Trasa": "KRX1"
     },
     {
-        "Postcode": "32105",
-        "City": "KARWIN",
-        "Trasa": "KRX1"
-    },
-    {
         "Postcode": "32107",
         "City": "BLOGOCICE",
         "Trasa": "KRX1"
@@ -8667,7 +8627,7 @@
     {
         "Postcode": "32120",
         "City": "NOWE BRZESKO",
-        "Trasa": "KR5A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32120",
@@ -8702,72 +8662,72 @@
     {
         "Postcode": "32125",
         "City": "DOBRANOWICE",
-        "Trasa": "KR5A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32125",
         "City": "IGOLOMIA",
-        "Trasa": "KR5A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32125",
         "City": "KOZLICA",
-        "Trasa": "KR5A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32125",
         "City": "ODWISLE",
-        "Trasa": "KR5A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32125",
         "City": "POBIEDNIK MALY",
-        "Trasa": "KR5A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32125",
         "City": "POBIEDNIK WIELKI",
-        "Trasa": "KR5A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32125",
         "City": "RUDNO GORNE",
-        "Trasa": "KR5A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32125",
         "City": "STREGOBORZYCE",
-        "Trasa": "KR5A"
-    },
-    {
-        "Postcode": "32125",
-        "City": "STREGOBORZYCE (WYGNANOW)",
-        "Trasa": "KR5A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32125",
         "City": "TROPISZOW",
-        "Trasa": "KR5A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32125",
         "City": "WAWRZENCZYCE",
-        "Trasa": "KR5A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32125",
         "City": "ZLOTNIKI",
-        "Trasa": "KR5A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32125",
         "City": "ZOFIPOLE",
-        "Trasa": "KR5A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32125",
         "City": "ZYDOW",
-        "Trasa": "KR5A"
+        "Trasa": "KRX1"
+    },
+    {
+        "Postcode": "32126",
+        "City": "IGOLOMIA",
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32130",
@@ -9085,11 +9045,6 @@
         "Trasa": "KRX1"
     },
     {
-        "Postcode": "32201",
-        "City": "MIECHOW",
-        "Trasa": "KRX1"
-    },
-    {
         "Postcode": "32210",
         "City": "ANTOLKA",
         "Trasa": "KRX1"
@@ -9287,6 +9242,11 @@
     {
         "Postcode": "32218",
         "City": "SLUPOW",
+        "Trasa": "KRX1"
+    },
+    {
+        "Postcode": "32218",
+        "City": "SLUPOW (TOPOROW)",
         "Trasa": "KRX1"
     },
     {
@@ -9521,11 +9481,6 @@
     },
     {
         "Postcode": "32353",
-        "City": "JANGROT (KRESY)",
-        "Trasa": "KRX1"
-    },
-    {
-        "Postcode": "32353",
         "City": "MALYSZYCE",
         "Trasa": "KRX1"
     },
@@ -9541,22 +9496,7 @@
     },
     {
         "Postcode": "32353",
-        "City": "PODCHYBIE",
-        "Trasa": "KRX1"
-    },
-    {
-        "Postcode": "32353",
-        "City": "PORABKA",
-        "Trasa": "KRX1"
-    },
-    {
-        "Postcode": "32353",
         "City": "SCIBORZYCE",
-        "Trasa": "KRX1"
-    },
-    {
-        "Postcode": "32353",
-        "City": "SUCHA",
         "Trasa": "KRX1"
     },
     {
@@ -9587,17 +9527,17 @@
     {
         "Postcode": "32400",
         "City": "BORZETA",
-        "Trasa": "KR8C"
+        "Trasa": "KR1A"
     },
     {
         "Postcode": "32400",
         "City": "BYSINA",
-        "Trasa": "KR8C"
+        "Trasa": "KR1A"
     },
     {
         "Postcode": "32400",
         "City": "DROGINIA",
-        "Trasa": "KR8C"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32400",
@@ -9612,52 +9552,42 @@
     {
         "Postcode": "32400",
         "City": "MYSLENICE",
-        "Trasa": "KR8C"
+        "Trasa": "KR1A"
     },
     {
         "Postcode": "32400",
         "City": "MYSLENICE (CHELM)",
-        "Trasa": "KR8C"
+        "Trasa": "KR1A"
     },
     {
         "Postcode": "32400",
         "City": "OSIECZANY",
-        "Trasa": "KR8C"
+        "Trasa": "KR1A"
     },
     {
         "Postcode": "32400",
         "City": "POLANKA",
-        "Trasa": "KR8C"
-    },
-    {
-        "Postcode": "32401",
-        "City": "MYSLENICE",
-        "Trasa": "KR8C"
-    },
-    {
-        "Postcode": "32403",
-        "City": "MYSLENICE",
-        "Trasa": "KR8C"
+        "Trasa": "KR1A"
     },
     {
         "Postcode": "32406",
         "City": "CZECHOWKA",
-        "Trasa": "KR8B"
+        "Trasa": "KR7X"
     },
     {
         "Postcode": "32406",
         "City": "ZAKLICZYN",
-        "Trasa": "KR8B"
+        "Trasa": "KR7X"
     },
     {
         "Postcode": "32410",
         "City": "BIENKOWICE",
-        "Trasa": "KR8B"
+        "Trasa": "KR7X"
     },
     {
         "Postcode": "32410",
         "City": "BRZACZOWICE",
-        "Trasa": "KR8B"
+        "Trasa": "KR7X"
     },
     {
         "Postcode": "32410",
@@ -9667,12 +9597,12 @@
     {
         "Postcode": "32410",
         "City": "DOBCZYCE",
-        "Trasa": "KR8B"
+        "Trasa": "KR7X"
     },
     {
         "Postcode": "32410",
         "City": "DZIEKANOWICE",
-        "Trasa": "KR8B"
+        "Trasa": "KR7X"
     },
     {
         "Postcode": "32410",
@@ -9682,317 +9612,302 @@
     {
         "Postcode": "32410",
         "City": "KORNATKA",
-        "Trasa": "KR8B"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32410",
         "City": "NIEZDOW",
-        "Trasa": "KR8B"
+        "Trasa": "KR7X"
     },
     {
         "Postcode": "32410",
         "City": "NOWA WIES",
-        "Trasa": "KR8B"
+        "Trasa": "KR7X"
     },
     {
         "Postcode": "32410",
         "City": "RUDNIK",
-        "Trasa": "KR6X"
+        "Trasa": "KR7X"
     },
     {
         "Postcode": "32410",
         "City": "SIERAKOW",
-        "Trasa": "KR8B"
+        "Trasa": "KR7X"
     },
     {
         "Postcode": "32410",
         "City": "SKRZYNKA",
-        "Trasa": "KR8B"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32410",
         "City": "STADNIKI",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32410",
         "City": "STOJOWICE",
-        "Trasa": "KR8B"
-    },
-    {
-        "Postcode": "32411",
-        "City": "KORNATKA",
-        "Trasa": "KRX1"
+        "Trasa": "KR7X"
     },
     {
         "Postcode": "32412",
         "City": "GLICHOW",
-        "Trasa": "KR8B"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32412",
         "City": "KOBIELNIK",
-        "Trasa": "KR8B"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32412",
         "City": "LIPNIK",
-        "Trasa": "KR8B"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32412",
         "City": "POZNACHOWICE DOLNE",
-        "Trasa": "KR8B"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32412",
         "City": "WEGLOWKA",
-        "Trasa": "KR8B"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32412",
         "City": "WIERZBANOWA",
-        "Trasa": "KR8B"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32412",
         "City": "WISNIOWA",
-        "Trasa": "KR8B"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32414",
         "City": "GRUSZOW",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32414",
         "City": "KAWEC",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32414",
         "City": "SAWA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32414",
         "City": "ZEROSLAWICE",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32415",
         "City": "BOJANCZYCE",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32415",
         "City": "CZASLAW",
-        "Trasa": "KR8B"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32415",
         "City": "DABIE",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32415",
         "City": "KOMORNIKI",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32415",
         "City": "KRZESLAWICE",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32415",
         "City": "KRZYWORZEKA",
-        "Trasa": "KR8B"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32415",
         "City": "KWAPINKA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32415",
         "City": "MIERZEN",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32415",
         "City": "POZNACHOWICE GORNE",
-        "Trasa": "KR8B"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32415",
         "City": "RACIECHOWICE",
-        "Trasa": "KR8B"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32415",
         "City": "ZEGARTOWICE",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32420",
         "City": "BILCZYCE",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32420",
         "City": "CICHAWA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32420",
         "City": "CZYZOW",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32420",
         "City": "FALKOWICE",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32420",
         "City": "GDOW",
-        "Trasa": "KR7X"
-    },
-    {
-        "Postcode": "32420",
-        "City": "GDOW (GRZYBOWA)",
-        "Trasa": "KR7X"
-    },
-    {
-        "Postcode": "32420",
-        "City": "GDOW (NOWA WIES)",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32420",
         "City": "HUCISKO",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32420",
         "City": "JAROSZOWKA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32420",
         "City": "KLECZANA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32420",
         "City": "KRAKUSZOWICE",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32420",
         "City": "KSIAZNICE",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32420",
         "City": "KUNICE",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32420",
         "City": "LIPLAS",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32420",
         "City": "MARSZOWICE",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32420",
         "City": "NIEGOWIC",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32420",
         "City": "NIEWIAROW",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32420",
         "City": "NIEZNANOWICE",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32420",
         "City": "NIZOWA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32420",
         "City": "PIERZCHOW",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32420",
         "City": "PODOLANY",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32420",
         "City": "STRYSZOWA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32420",
         "City": "SWIATNIKI DOLNE",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32420",
         "City": "SZCZYTNIKI",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32420",
         "City": "WIATOWICE",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32420",
         "City": "WIENIEC",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32420",
         "City": "WINIARY",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32420",
         "City": "ZAGORZANY",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32420",
         "City": "ZALESIANY",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32420",
         "City": "ZBORCZYCE",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32420",
         "City": "ZRECZYCE",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
-        "Postcode": "32420",
-        "City": "ZRECZYCE (WOLKA ZRECZYCKA)",
-        "Trasa": "KR7X"
+        "Postcode": "32422",
+        "City": "STADNIKI",
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32425",
@@ -10017,7 +9932,7 @@
     {
         "Postcode": "32431",
         "City": "STROZA",
-        "Trasa": "KR8C"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32432",
@@ -10052,7 +9967,7 @@
     {
         "Postcode": "32435",
         "City": "ZAWADKA",
-        "Trasa": "KR8C"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32436",
@@ -10062,7 +9977,7 @@
     {
         "Postcode": "32436",
         "City": "WIECIORKA",
-        "Trasa": "KR8B"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32437",
@@ -10082,7 +9997,7 @@
     {
         "Postcode": "32440",
         "City": "BIERTOWICE",
-        "Trasa": "KR8C"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32440",
@@ -10102,7 +10017,7 @@
     {
         "Postcode": "32442",
         "City": "KRZYWACZKA",
-        "Trasa": "KR8C"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32444",
@@ -10117,12 +10032,12 @@
     {
         "Postcode": "32445",
         "City": "KRZYSZKOWICE",
-        "Trasa": "KR1A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32445",
         "City": "ZAWADA",
-        "Trasa": "KR1A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32447",
@@ -10237,17 +10152,17 @@
     {
         "Postcode": "32700",
         "City": "NIEPRZESNIA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32700",
         "City": "NIESZKOWICE WIELKIE",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32700",
         "City": "POGWIZDOW",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32700",
@@ -10257,17 +10172,17 @@
     {
         "Postcode": "32700",
         "City": "SLOMKA",
-        "Trasa": "KR6C"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32700",
         "City": "WOLA NIESZKOWSKA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32700",
         "City": "ZAWADA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32701",
@@ -10285,7 +10200,7 @@
         "Trasa": "KR6C"
     },
     {
-        "Postcode": "32706",
+        "Postcode": "32704",
         "City": "BOCHNIA",
         "Trasa": "KR6C"
     },
@@ -10385,6 +10300,11 @@
         "Trasa": "KRX1"
     },
     {
+        "Postcode": "32711",
+        "City": "SLOMKA",
+        "Trasa": "KRX1"
+    },
+    {
         "Postcode": "32712",
         "City": "BRATUCICE",
         "Trasa": "KRX1"
@@ -10417,7 +10337,7 @@
     {
         "Postcode": "32720",
         "City": "CHRONOW",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32720",
@@ -10432,12 +10352,12 @@
     {
         "Postcode": "32720",
         "City": "LEKSANDROWA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32720",
         "City": "LOMNA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32720",
@@ -10452,7 +10372,7 @@
     {
         "Postcode": "32720",
         "City": "POLOM DUZY",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32720",
@@ -10467,242 +10387,247 @@
     {
         "Postcode": "32722",
         "City": "KROLOWKA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32722",
         "City": "MUCHOWKA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32723",
         "City": "MUCHOWKA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32724",
         "City": "BOROWNA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32724",
         "City": "LIPNICA DOLNA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32724",
         "City": "LIPNICA GORNA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32724",
         "City": "LIPNICA MUROWANA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
+    },
+    {
+        "Postcode": "32724",
+        "City": "RAJBROT",
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32725",
         "City": "RAJBROT",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32731",
         "City": "BELDNO",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32731",
         "City": "BYTOMSKO",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32731",
         "City": "LAKTA GORNA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32731",
         "City": "ROZDZIELE",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32731",
         "City": "ZEGOCINA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32732",
         "City": "KAMIONNA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32732",
         "City": "KIERLIKOWKA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32732",
         "City": "RDZAWA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32733",
         "City": "LAKTA DOLNA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32733",
         "City": "LESZCZYNA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32733",
         "City": "TRZCIANA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32733",
         "City": "UJAZD",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32740",
         "City": "BOCZOW",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32740",
         "City": "BRZEZOWA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32740",
         "City": "CICHAWKA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32740",
         "City": "GRABIE",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32740",
         "City": "KEPANOW",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32740",
         "City": "KOBYLEC",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32740",
         "City": "LAPANOW",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32740",
         "City": "LUBOMIERZ",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32740",
         "City": "UBRZEZ",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32740",
         "City": "WIERUSZYCE",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32740",
         "City": "WOLA WIERUSZYCKA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32740",
         "City": "WOLICA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32741",
         "City": "TARNAWA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32741",
         "City": "ZBYDNIOW",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32742",
         "City": "BUCZYNA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32742",
         "City": "CHROSTOWA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32742",
         "City": "GRABINA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32742",
         "City": "KAMYK",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32742",
         "City": "SOBOLOW",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32742",
         "City": "STRADOMKA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32744",
         "City": "CHELM",
-        "Trasa": "KR7X"
+        "Trasa": "KR6C"
     },
     {
         "Postcode": "32744",
         "City": "DABROWICA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32744",
         "City": "GIERCZYCE",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32744",
         "City": "LAPCZYCA",
-        "Trasa": "KR7X"
+        "Trasa": "KR6C"
     },
     {
         "Postcode": "32744",
         "City": "MOSZCZENICA",
-        "Trasa": "KR7X"
+        "Trasa": "KR6C"
     },
     {
         "Postcode": "32744",
         "City": "NIESZKOWICE MALE",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32744",
         "City": "SIEDLEC",
-        "Trasa": "KR7X"
+        "Trasa": "KR6C"
     },
     {
         "Postcode": "32765",
         "City": "BOREK",
-        "Trasa": "KR6C"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32765",
@@ -10722,7 +10647,7 @@
     {
         "Postcode": "32765",
         "City": "OSTROW KROLEWSKI",
-        "Trasa": "KR6C"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32765",
@@ -10737,7 +10662,7 @@
     {
         "Postcode": "32800",
         "City": "BUCZE",
-        "Trasa": "KR6C"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32800",
@@ -10796,6 +10721,11 @@
     },
     {
         "Postcode": "32820",
+        "City": "KOPACZE WIELKIE",
+        "Trasa": "KRX1"
+    },
+    {
+        "Postcode": "32820",
         "City": "NIEDZIELISKA",
         "Trasa": "KRX1"
     },
@@ -10817,6 +10747,11 @@
     {
         "Postcode": "32820",
         "City": "SZCZUROWA",
+        "Trasa": "KRX1"
+    },
+    {
+        "Postcode": "32820",
+        "City": "WOLA PRZEMYKOWSKA",
         "Trasa": "KRX1"
     },
     {
@@ -10946,7 +10881,17 @@
     },
     {
         "Postcode": "32828",
+        "City": "SUFCZYN",
+        "Trasa": "KRX1"
+    },
+    {
+        "Postcode": "32828",
         "City": "WOKOWICE",
+        "Trasa": "KRX1"
+    },
+    {
+        "Postcode": "32828",
+        "City": "WOLA DEBINSKA",
         "Trasa": "KRX1"
     },
     {
@@ -11158,6 +11103,11 @@
         "Postcode": "32852",
         "City": "WOLA DEBINSKA",
         "Trasa": "KR6C"
+    },
+    {
+        "Postcode": "32853",
+        "City": "GRABNO",
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "32853",
@@ -11375,6 +11325,11 @@
         "Trasa": "KR6B"
     },
     {
+        "Postcode": "33107",
+        "City": "TARNOW",
+        "Trasa": "KR6B"
+    },
+    {
         "Postcode": "33108",
         "City": "TARNOW",
         "Trasa": "KR6B"
@@ -11442,7 +11397,7 @@
     {
         "Postcode": "33113",
         "City": "BLONIE",
-        "Trasa": "KR6B"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "33113",
@@ -11607,6 +11562,16 @@
     {
         "Postcode": "33133",
         "City": "WAL-RUDA",
+        "Trasa": "KRX1"
+    },
+    {
+        "Postcode": "33133",
+        "City": "WAL-RUDA (BOR)",
+        "Trasa": "KRX1"
+    },
+    {
+        "Postcode": "33133",
+        "City": "WAL-RUDA (SMIETANA)",
         "Trasa": "KRX1"
     },
     {
@@ -11870,11 +11835,6 @@
         "Trasa": "KRX1"
     },
     {
-        "Postcode": "33174",
-        "City": "TUCHOW",
-        "Trasa": "KRX1"
-    },
-    {
         "Postcode": "33180",
         "City": "CHOJNIK",
         "Trasa": "KRX1"
@@ -11971,6 +11931,11 @@
     },
     {
         "Postcode": "33192",
+        "City": "KASNA GORNA",
+        "Trasa": "KRX1"
+    },
+    {
+        "Postcode": "33192",
         "City": "SIEKIERCZYNA",
         "Trasa": "KRX1"
     },
@@ -12002,7 +11967,7 @@
     {
         "Postcode": "33200",
         "City": "NIECZAJNA GORNA",
-        "Trasa": "KR6A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "33200",
@@ -12037,6 +12002,11 @@
     {
         "Postcode": "33202",
         "City": "SUTKOW",
+        "Trasa": "KRX1"
+    },
+    {
+        "Postcode": "33202",
+        "City": "WOLA MEDRZECHOWSKA",
         "Trasa": "KRX1"
     },
     {
@@ -12340,16 +12310,6 @@
         "Trasa": "KR6A"
     },
     {
-        "Postcode": "33241",
-        "City": "ODPORYSZOW",
-        "Trasa": "KR6A"
-    },
-    {
-        "Postcode": "33242",
-        "City": "ZABNO",
-        "Trasa": "KR6A"
-    },
-    {
         "Postcode": "33250",
         "City": "BIENIASZOWICE",
         "Trasa": "KRX1"
@@ -12382,6 +12342,11 @@
     {
         "Postcode": "33250",
         "City": "OTFINOW",
+        "Trasa": "KRX1"
+    },
+    {
+        "Postcode": "33250",
+        "City": "PASIEKA OTFINOWSKA",
         "Trasa": "KRX1"
     },
     {
@@ -12487,6 +12452,11 @@
     {
         "Postcode": "33270",
         "City": "DEMBLIN",
+        "Trasa": "KRX1"
+    },
+    {
+        "Postcode": "33270",
+        "City": "JADOWNIKI MOKRE",
         "Trasa": "KRX1"
     },
     {
@@ -12625,7 +12595,7 @@
         "Trasa": "KR7A"
     },
     {
-        "Postcode": "33309",
+        "Postcode": "33308",
         "City": "NOWY SACZ",
         "Trasa": "KR7A"
     },
@@ -12945,8 +12915,18 @@
         "Trasa": "KR7A"
     },
     {
+        "Postcode": "33330",
+        "City": "WYSKITNA",
+        "Trasa": "KR7A"
+    },
+    {
         "Postcode": "33331",
         "City": "GRODEK",
+        "Trasa": "KR7A"
+    },
+    {
+        "Postcode": "33331",
+        "City": "GRYBOW",
         "Trasa": "KR7A"
     },
     {
@@ -13250,11 +13230,6 @@
         "Trasa": "KRX1"
     },
     {
-        "Postcode": "33352",
-        "City": "PIWNICZNA-ZDROJ",
-        "Trasa": "KRX1"
-    },
-    {
         "Postcode": "33370",
         "City": "ANDRZEJOWKA",
         "Trasa": "KRX1"
@@ -13291,11 +13266,6 @@
     },
     {
         "Postcode": "33370",
-        "City": "POWROZNIK (SZCZAWICZNE)",
-        "Trasa": "KRX1"
-    },
-    {
-        "Postcode": "33370",
         "City": "SZCZAWNIK",
         "Trasa": "KRX1"
     },
@@ -13327,11 +13297,6 @@
     {
         "Postcode": "33370",
         "City": "ZLOCKIE",
-        "Trasa": "KRX1"
-    },
-    {
-        "Postcode": "33371",
-        "City": "SZCZAWNIK",
         "Trasa": "KRX1"
     },
     {
@@ -13392,12 +13357,12 @@
     {
         "Postcode": "33386",
         "City": "BRZEZNA",
-        "Trasa": "KR7B"
+        "Trasa": "KR7X"
     },
     {
         "Postcode": "33386",
         "City": "CHOCHOROWICE",
-        "Trasa": "KR7B"
+        "Trasa": "KR7X"
     },
     {
         "Postcode": "33386",
@@ -13412,7 +13377,7 @@
     {
         "Postcode": "33386",
         "City": "JURASZOWA",
-        "Trasa": "KR7B"
+        "Trasa": "KR7X"
     },
     {
         "Postcode": "33386",
@@ -13437,7 +13402,7 @@
     {
         "Postcode": "33386",
         "City": "PODEGRODZIE",
-        "Trasa": "KR7B"
+        "Trasa": "KR7X"
     },
     {
         "Postcode": "33386",
@@ -13452,7 +13417,7 @@
     {
         "Postcode": "33386",
         "City": "STADLA",
-        "Trasa": "KR7B"
+        "Trasa": "KR7X"
     },
     {
         "Postcode": "33388",
@@ -13672,32 +13637,32 @@
     {
         "Postcode": "34103",
         "City": "BABICA",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34103",
         "City": "LGOTA",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34103",
         "City": "WITANOWICE",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34103",
         "City": "WOZNIKI",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34103",
         "City": "WYZRAL",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34103",
         "City": "ZYGODOWICE",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34104",
@@ -13707,22 +13672,22 @@
     {
         "Postcode": "34105",
         "City": "STANISLAW GORNY",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34105",
         "City": "WYSOKA",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34106",
         "City": "JASZCZUROWA",
-        "Trasa": "KR8X"
+        "Trasa": "KR8C"
     },
     {
         "Postcode": "34106",
         "City": "KOZINIEC",
-        "Trasa": "KR8X"
+        "Trasa": "KR8C"
     },
     {
         "Postcode": "34106",
@@ -13732,22 +13697,22 @@
     {
         "Postcode": "34106",
         "City": "SKAWCE",
-        "Trasa": "KR8X"
+        "Trasa": "KR8C"
     },
     {
         "Postcode": "34106",
         "City": "SWINNA POREBA",
-        "Trasa": "KR8X"
+        "Trasa": "KR8C"
     },
     {
         "Postcode": "34106",
         "City": "ZAGORZE",
-        "Trasa": "KR8X"
+        "Trasa": "KR8C"
     },
     {
         "Postcode": "34108",
         "City": "FRYDRYCHOWICE",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34108",
@@ -13757,86 +13722,81 @@
     {
         "Postcode": "34112",
         "City": "SOSNOWICE",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34113",
         "City": "BECZYN",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34113",
         "City": "PASZKOWKA",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34113",
         "City": "SOSNOWICE",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34114",
         "City": "BRZEZINKA",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34114",
         "City": "BRZEZNICA",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34114",
         "City": "CHRZASTOWICE",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34114",
         "City": "KOPYTOWKA",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34114",
         "City": "KOSSOWA",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34114",
         "City": "MARCYPOREBA",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34114",
         "City": "NOWE DWORY",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34114",
         "City": "TLUCZAN",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34115",
         "City": "LACZANY",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34115",
         "City": "POLWIES",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34115",
         "City": "RYCZOW",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34116",
         "City": "BACHOWICE",
-        "Trasa": "KR8X"
-    },
-    {
-        "Postcode": "34116",
-        "City": "LIPOWA",
         "Trasa": "KRX1"
     },
     {
@@ -13847,7 +13807,7 @@
     {
         "Postcode": "34116",
         "City": "SPYTKOWICE",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34120",
@@ -13871,17 +13831,17 @@
     },
     {
         "Postcode": "34120",
-        "City": "SULKOWICE",
-        "Trasa": "KR8X"
-    },
-    {
-        "Postcode": "34120",
         "City": "TARGANICE",
         "Trasa": "KR8X"
     },
     {
         "Postcode": "34120",
         "City": "ZAGORNIK",
+        "Trasa": "KR8X"
+    },
+    {
+        "Postcode": "34121",
+        "City": "ROCZYNY",
         "Trasa": "KR8X"
     },
     {
@@ -13937,7 +13897,7 @@
     {
         "Postcode": "34124",
         "City": "LEKAWICA",
-        "Trasa": "KR8X"
+        "Trasa": "KR8C"
     },
     {
         "Postcode": "34125",
@@ -13971,11 +13931,6 @@
     },
     {
         "Postcode": "34130",
-        "City": "KALWARIA ZEBRZYDOWSKA (CZERNA)",
-        "Trasa": "KR8X"
-    },
-    {
-        "Postcode": "34130",
         "City": "STANISLAW DOLNY",
         "Trasa": "KR8X"
     },
@@ -13987,42 +13942,42 @@
     {
         "Postcode": "34141",
         "City": "PRZYTKOWICE",
-        "Trasa": "KR8X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34142",
         "City": "LENCZE",
-        "Trasa": "KR8C"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34142",
         "City": "PODOLANY",
-        "Trasa": "KR8C"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34142",
         "City": "ZARZYCE MALE",
-        "Trasa": "KR8C"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34142",
         "City": "ZARZYCE WIELKIE",
-        "Trasa": "KR8C"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34143",
         "City": "JASTRZEBIA",
-        "Trasa": "KR8C"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34143",
         "City": "LANCKORONA",
-        "Trasa": "KR8C"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34143",
         "City": "SKAWINKI",
-        "Trasa": "KR8C"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34144",
@@ -14037,17 +13992,17 @@
     {
         "Postcode": "34145",
         "City": "LESNICA",
-        "Trasa": "KR8C"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34145",
         "City": "STRONIE",
-        "Trasa": "KR8C"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34145",
         "City": "ZAKRZOW",
-        "Trasa": "KR8C"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34146",
@@ -14062,7 +14017,7 @@
     {
         "Postcode": "34200",
         "City": "KRZESZOW",
-        "Trasa": "KR8C"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34200",
@@ -14082,12 +14037,12 @@
     {
         "Postcode": "34206",
         "City": "KRZESZOW",
-        "Trasa": "KR8C"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34206",
         "City": "KUKOW",
-        "Trasa": "KR8C"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34206",
@@ -14097,12 +14052,12 @@
     {
         "Postcode": "34210",
         "City": "MARCOWKA",
-        "Trasa": "KR8C"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34210",
         "City": "SLESZOWICE",
-        "Trasa": "KR8C"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34210",
@@ -14112,7 +14067,7 @@
     {
         "Postcode": "34210",
         "City": "TARNAWA GORNA",
-        "Trasa": "KR8C"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34210",
@@ -14122,6 +14077,11 @@
     {
         "Postcode": "34211",
         "City": "BACZYN",
+        "Trasa": "KR8C"
+    },
+    {
+        "Postcode": "34211",
+        "City": "BIENKOWKA",
         "Trasa": "KR8C"
     },
     {
@@ -14192,12 +14152,12 @@
     {
         "Postcode": "34231",
         "City": "JUSZCZYN",
-        "Trasa": "KR8C"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34231",
         "City": "KOJSZOWKA",
-        "Trasa": "KR8C"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34231",
@@ -14212,16 +14172,16 @@
     {
         "Postcode": "34234",
         "City": "OSIELEC",
-        "Trasa": "KR8C"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34235",
-        "City": "BYSTRA PODHALANSKA",
-        "Trasa": "KR8C"
+        "City": "BYSTRA",
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34236",
-        "City": "BYSTRA PODHALANSKA",
+        "City": "BYSTRA",
         "Trasa": "KRX1"
     },
     {
@@ -14396,6 +14356,11 @@
     },
     {
         "Postcode": "34424",
+        "City": "LESNICA",
+        "Trasa": "KR8A"
+    },
+    {
+        "Postcode": "34424",
         "City": "MARUSZYNA",
         "Trasa": "KR8A"
     },
@@ -14535,11 +14500,6 @@
         "Trasa": "KRX1"
     },
     {
-        "Postcode": "34441",
-        "City": "NIEDZICA-ZAMEK",
-        "Trasa": "KRX1"
-    },
-    {
         "Postcode": "34442",
         "City": "LAPSZANKA",
         "Trasa": "KRX1"
@@ -14641,6 +14601,11 @@
     },
     {
         "Postcode": "34470",
+        "City": "PIEKIELNIK",
+        "Trasa": "KR8A"
+    },
+    {
+        "Postcode": "34470",
         "City": "PODCZERWONE",
         "Trasa": "KR8A"
     },
@@ -14677,6 +14642,11 @@
     {
         "Postcode": "34471",
         "City": "LUDZMIERZ",
+        "Trasa": "KR8A"
+    },
+    {
+        "Postcode": "34471",
+        "City": "ROGOZNIK",
         "Trasa": "KR8A"
     },
     {
@@ -14746,6 +14716,11 @@
     },
     {
         "Postcode": "34500",
+        "City": "PORONIN",
+        "Trasa": "KR8A"
+    },
+    {
+        "Postcode": "34500",
         "City": "ZAKOPANE",
         "Trasa": "KR8A"
     },
@@ -14777,6 +14752,11 @@
     {
         "Postcode": "34511",
         "City": "KOSCIELISKO",
+        "Trasa": "KR8A"
+    },
+    {
+        "Postcode": "34511",
+        "City": "WITOW",
         "Trasa": "KR8A"
     },
     {
@@ -14857,7 +14837,7 @@
     {
         "Postcode": "34600",
         "City": "BALAZOWKA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34600",
@@ -14887,12 +14867,12 @@
     {
         "Postcode": "34600",
         "City": "MAKOWICA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34600",
         "City": "MLYNNE",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34600",
@@ -14902,7 +14882,7 @@
     {
         "Postcode": "34600",
         "City": "PASIERBIEC",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34600",
@@ -14917,12 +14897,17 @@
     {
         "Postcode": "34600",
         "City": "STARA WIES",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
+    },
+    {
+        "Postcode": "34600",
+        "City": "STARA WIES (PODJABLONIEC)",
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34600",
         "City": "WALOWA GORA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34600",
@@ -14962,7 +14947,7 @@
     {
         "Postcode": "34603",
         "City": "SECHNA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34603",
@@ -15007,7 +14992,7 @@
     {
         "Postcode": "34606",
         "City": "LUKOWICA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34606",
@@ -15062,87 +15047,87 @@
     {
         "Postcode": "34617",
         "City": "WILKOWISKO",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34620",
         "City": "JODLOWNIK",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34620",
         "City": "KOSTRZA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34620",
         "City": "KRASNE-LASOCICE",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34620",
         "City": "MSTOW",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34620",
         "City": "SADEK",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34620",
         "City": "SLUPIA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34620",
         "City": "SZYK",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34623",
         "City": "GORA SWIETEGO JANA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34623",
         "City": "JANOWICE",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34623",
         "City": "POGORZANY",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34623",
         "City": "SZCZYRZYC",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34625",
         "City": "PRZENOSZA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34625",
         "City": "SKRZYDLNA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34625",
         "City": "STROZA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34625",
         "City": "WOLA SKRZYDLANSKA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34642",
         "City": "DOBRA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34642",
@@ -15152,7 +15137,7 @@
     {
         "Postcode": "34642",
         "City": "PORABKA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34643",
@@ -15177,12 +15162,12 @@
     {
         "Postcode": "34650",
         "City": "PIEKIELKO",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34650",
         "City": "PODLOPIEN",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34650",
@@ -15197,32 +15182,32 @@
     {
         "Postcode": "34650",
         "City": "ZAWADKA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34652",
         "City": "KISIELOWKA",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34652",
         "City": "NOWE RYBIE",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34652",
         "City": "RUPNIOW",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34652",
         "City": "STARE RYBIE",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34654",
         "City": "KLODNE",
-        "Trasa": "KR7X"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34654",
@@ -15262,6 +15247,11 @@
     {
         "Postcode": "34713",
         "City": "SKAWA",
+        "Trasa": "KR8B"
+    },
+    {
+        "Postcode": "34720",
+        "City": "CHABOWKA",
         "Trasa": "KR8B"
     },
     {
@@ -15316,13 +15306,18 @@
     },
     {
         "Postcode": "34730",
+        "City": "KASINKA MALA",
+        "Trasa": "KR8B"
+    },
+    {
+        "Postcode": "34730",
         "City": "LOSTOWKA",
         "Trasa": "KRX1"
     },
     {
         "Postcode": "34730",
         "City": "MSZANA DOLNA",
-        "Trasa": "KR8B"
+        "Trasa": "KR7X"
     },
     {
         "Postcode": "34730",
@@ -15382,7 +15377,7 @@
     {
         "Postcode": "34741",
         "City": "KASINA WIELKA",
-        "Trasa": "KR8B"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "34745",
@@ -15422,7 +15417,7 @@
     {
         "Postcode": "38300",
         "City": "BYSTRA",
-        "Trasa": "KR7A"
+        "Trasa": "KRX1"
     },
     {
         "Postcode": "38300",
@@ -15441,6 +15436,11 @@
     },
     {
         "Postcode": "38301",
+        "City": "GORLICE",
+        "Trasa": "KR7A"
+    },
+    {
+        "Postcode": "38302",
         "City": "GORLICE",
         "Trasa": "KR7A"
     },
