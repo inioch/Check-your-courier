@@ -4,6 +4,8 @@ const trasa = document.getElementById("trasa")
 const miejscowosc = document.getElementById("miejscowosc")
 const cel = document.getElementById("cel")
 
+inputkod.focus()
+
 const deleteData = () =>{
   while (cel.hasChildNodes()) {
     cel.removeChild(cel.firstChild);
