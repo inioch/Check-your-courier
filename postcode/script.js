@@ -24,10 +24,12 @@ fetch('../restrykcje.json')
         element.innerText =  filteredData[i].City + "    " + filteredData[i].Trasa
         cel.appendChild(element)
         if(filteredData[i].Trasa == "KRX1"){
-          element.style.backgroundColor ="red"
+          element.style.backgroundColor ="#ef476f"
+          element.style.color ="white"
         }
         else{
-          element.style.backgroundColor ="green"
+          element.style.backgroundColor ="#26547c"
+          element.style.color ="white"
         }
       
       }       
