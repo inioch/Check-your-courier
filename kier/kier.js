@@ -28,6 +28,7 @@ fetch('../restrykcje.json')
         }
         else{
           element.style.backgroundColor ="#26547c"
+          element.style.color ="white"
         }
       
       }       
